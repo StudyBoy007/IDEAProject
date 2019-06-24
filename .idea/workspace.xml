@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e04b1c3b-9c90-44ff-9cb1-4ea52efa91c6" name="Default" comment="version=1.0" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JAVAPractice$MapTest.ic" NAME="MapTest Coverage Results" MODIFIED="1552818073457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Practice.JAVACollection.Map.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JAVAPractice$Test01.ic" NAME="Test01 Coverage Results" MODIFIED="1552651647435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Practice.JAVATest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JAVAPractice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkList/Link.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/MapTable/hashTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkHashMap/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkList/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/MapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Unnamed" />
+        <option value="xml文件" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transient</find>
+      <find>writeob</find>
+      <find>childrens</find>
+      <find>receive</find>
+      <find>请输入要上</find>
+      <find>请输入上传文件的绝对</find>
+      <find>filesend</find>
+      <find>file</find>
+      <find>ois</find>
+      <find>localhost</find>
+      <find>reado</find>
+      <find>abs</find>
+      <find>toString</find>
+      <find>hashcode</find>
+      <find>put</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>childrensOne</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ProductTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVAMath/MathTest2.java" />
+        <option value="$PROJECT_DIR$/src/Test23.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThread/ThreadStopTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAjingzhizhuanghuang/JZTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileInputStream/IOUtilityReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/Test28.java" />
+        <option value="$PROJECT_DIR$/src/Test29.java" />
+        <option value="$PROJECT_DIR$/src/Test31.java" />
+        <option value="$PROJECT_DIR$/src/Test32.java" />
+        <option value="$PROJECT_DIR$/src/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Test33.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVAException/ExpectionTest02.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVAException/ExpectionTest.java" />
+        <option value="$PROJECT_DIR$/src/hasnextxxxTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVADate/CalendarTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVASocket/SocketTask/src/SocketTaskPackage/Client.java" />
+        <option value="$PROJECT_DIR$/src/JAVASocket/INetAddress/InetAddressTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVASocket/UDP/Client.java" />
+        <option value="$PROJECT_DIR$/src/JAVASocket/UDP/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThread/STYYTest/StageThread.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileOutputStream/IOUtilityWriteTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVASocket/URL/URLTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/File/FileUtility.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileOutputStream/IOUtilityWrite.java" />
+        <option value="$PROJECT_DIR$/demo/dos.dat" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/Encode/EncodeTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/SerializtionObject/Student.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/RandomAcessFile/SeekUser.java" />
+        <option value="$PROJECT_DIR$/File/Hello.txt" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/DataoutputStream/DosDemo.java" />
+        <option value="$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileInputStream/IOUtilityReader.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/User.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/Num.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/TreeMap.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/Student.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/TreeSet.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/TreeMap.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/Student.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/IdCompare.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/MapTree.java" />
+        <option value="$PROJECT_DIR$/src/JAVASocket/SocketTask/src/Service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/Test34.java" />
+        <option value="$PROJECT_DIR$/src/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/MapTest2.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/MapTable/MapTableTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/MapTable/hashTable.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkList/Person.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkHashMap/Test.java" />
+        <option value="$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkList/Link.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Program/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\Program\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="391" />
+    <option name="y" value="127" />
+    <option name="width" value="1335" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAThree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAThree" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVACollection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAThree" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVACollection" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="setback&#9;ACTION&#9;setBackgroundImage&#10;setbac&#9;ACTION&#9;Images.SetBackgroundImage&#10;setbackg&#9;ACTION&#9;setBackgroundImage" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559056376072" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="JAVAXML.XMLWrite.Dom4j" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea\workspace\JAVAPractice\src\JAVASocket" />
+      <recent name="F:\idea\workspace\JAVAPractice\src\JAVAXML\XMLWrite" />
+      <recent name="F:\idea\workspace\JAVAPractice\src\JAVAXML\XMLReader" />
+      <recent name="F:\idea\workspace\JAVAPractice\lib" />
+      <recent name="F:\idea\workspace\JAVAPractice\src\JAVAFileOperate\JAVAIoStream\IOStream\IOByteStream" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JAVAThree.JAVACollection.TreeMap" />
+      <recent name="JAVAThread" />
+      <recent name="java" />
+      <recent name="Calculate" />
+      <recent name="JAVAFileOperate.JAVAIoStream.Encode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\idea\workspace\JAVAPractice\XML" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="JAVAPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAThree.JAVACollection.Map.MapTest2" />
+      <module name="JAVAPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAThree.JAVACollection.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAThree.JAVACollection.LinkHashMap.Test" />
+      <module name="JAVAPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAThree.JAVACollection.LinkHashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test34" />
+      <module name="JAVAPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAThree.JAVACollection.MapTable.hashTable" />
+      <module name="JAVAPractice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAThree.JAVACollection.MapTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test34" />
+      <item itemvalue="Application.MapTest2" />
+      <item itemvalue="Application.hashTable" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.hashTable" />
+        <item itemvalue="Application.MapTest2" />
+        <item itemvalue="Application.Test34" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04b1c3b-9c90-44ff-9cb1-4ea52efa91c6" name="Default" comment="" />
+      <created>1552562282303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552562282303</updated>
+      <workItem from="1552562285406" duration="7193000" />
+      <workItem from="1552645843043" duration="6538000" />
+      <workItem from="1552654261774" duration="2812000" />
+      <workItem from="1552802647989" duration="15457000" />
+      <workItem from="1552836220268" duration="683000" />
+      <workItem from="1552868167084" duration="1963000" />
+      <workItem from="1552905777640" duration="9695000" />
+      <workItem from="1552958058480" duration="678000" />
+      <workItem from="1552963673748" duration="1352000" />
+      <workItem from="1552976493617" duration="154000" />
+      <workItem from="1552991836269" duration="5062000" />
+      <workItem from="1552996964976" duration="4344000" />
+      <workItem from="1553079177945" duration="6918000" />
+      <workItem from="1553164185827" duration="8545000" />
+      <workItem from="1553259391876" duration="129000" />
+      <workItem from="1553408968744" duration="14930000" />
+      <workItem from="1553426865409" duration="168000" />
+      <workItem from="1553496328731" duration="11015000" />
+      <workItem from="1553510593212" duration="6755000" />
+      <workItem from="1553589585795" duration="12314000" />
+      <workItem from="1553668298196" duration="8837000" />
+      <workItem from="1553684927900" duration="5564000" />
+      <workItem from="1553767185381" duration="12163000" />
+      <workItem from="1553820134541" duration="8219000" />
+      <workItem from="1553828379169" duration="1544000" />
+      <workItem from="1553829986902" duration="1096000" />
+      <workItem from="1553840423114" duration="808000" />
+      <workItem from="1553855657332" duration="10043000" />
+      <workItem from="1553940795973" duration="10052000" />
+      <workItem from="1554028092091" duration="10738000" />
+      <workItem from="1554105799473" duration="19481000" />
+      <workItem from="1554254441095" duration="1291000" />
+      <workItem from="1554277966324" duration="18507000" />
+      <workItem from="1554710720877" duration="13824000" />
+      <workItem from="1554771142781" duration="5977000" />
+      <workItem from="1554804864280" duration="1346000" />
+      <workItem from="1554807651666" duration="6123000" />
+      <workItem from="1554863839171" duration="609000" />
+      <workItem from="1554979946736" duration="693000" />
+      <workItem from="1555120080961" duration="696000" />
+      <workItem from="1555125724278" duration="323000" />
+      <workItem from="1555138193530" duration="27000" />
+      <workItem from="1555143786116" duration="1010000" />
+      <workItem from="1555202000092" duration="1288000" />
+      <workItem from="1555395299167" duration="112000" />
+      <workItem from="1555397039954" duration="97000" />
+      <workItem from="1555411027149" duration="387000" />
+      <workItem from="1555482791085" duration="102000" />
+      <workItem from="1555591789457" duration="127000" />
+      <workItem from="1555656150684" duration="383000" />
+      <workItem from="1555659542078" duration="776000" />
+      <workItem from="1556104806584" duration="55000" />
+      <workItem from="1556262878125" duration="2513000" />
+      <workItem from="1556286697391" duration="24000" />
+      <workItem from="1556287020846" duration="1159000" />
+      <workItem from="1556630333258" duration="830000" />
+      <workItem from="1557189142578" duration="2278000" />
+      <workItem from="1557194085361" duration="1189000" />
+      <workItem from="1557243006655" duration="966000" />
+      <workItem from="1557245484587" duration="39000" />
+      <workItem from="1557245538029" duration="1000" />
+      <workItem from="1557315584870" duration="1897000" />
+      <workItem from="1557745442362" duration="6793000" />
+      <workItem from="1557794089611" duration="275000" />
+      <workItem from="1557847426465" duration="4979000" />
+      <workItem from="1557911394796" duration="1150000" />
+      <workItem from="1558108745114" duration="729000" />
+      <workItem from="1558136964605" duration="28000" />
+      <workItem from="1558705561452" duration="487000" />
+      <workItem from="1559028784461" duration="3404000" />
+      <workItem from="1559051651328" duration="3103000" />
+      <workItem from="1559056742151" duration="684000" />
+      <workItem from="1559057674480" duration="885000" />
+      <workItem from="1559088017741" duration="5997000" />
+      <workItem from="1559098988288" duration="16000" />
+      <workItem from="1559110618333" duration="7404000" />
+      <workItem from="1559186395497" duration="107000" />
+      <workItem from="1559219728716" duration="29000" />
+      <workItem from="1559478804746" duration="646000" />
+      <workItem from="1559638308276" duration="1372000" />
+      <workItem from="1559696819856" duration="14000" />
+      <workItem from="1559697987101" duration="4300000" />
+      <workItem from="1559748737623" duration="497000" />
+      <workItem from="1559783471738" duration="2682000" />
+      <workItem from="1559811868352" duration="1111000" />
+      <workItem from="1559813990225" duration="668000" />
+      <workItem from="1560213033929" duration="2222000" />
+      <workItem from="1560343127169" duration="1470000" />
+      <workItem from="1560683291907" duration="212000" />
+      <workItem from="1560758172228" duration="1408000" />
+      <workItem from="1560769247736" duration="2838000" />
+      <workItem from="1560821198116" duration="2847000" />
+      <workItem from="1560828602026" duration="717000" />
+      <workItem from="1560838887605" duration="5884000" />
+      <workItem from="1560857057606" duration="569000" />
+      <workItem from="1560858933585" duration="47000" />
+      <workItem from="1560859635130" duration="436000" />
+      <workItem from="1560861373347" duration="168000" />
+      <workItem from="1560904776899" duration="5739000" />
+      <workItem from="1560925240368" duration="2023000" />
+      <workItem from="1560932573602" duration="64000" />
+      <workItem from="1560943683837" duration="86000" />
+      <workItem from="1560948061610" duration="614000" />
+      <workItem from="1560992760672" duration="821000" />
+      <workItem from="1560995081019" duration="1807000" />
+      <workItem from="1560998973404" duration="73000" />
+      <workItem from="1561012435174" duration="3749000" />
+      <workItem from="1561028050301" duration="407000" />
+      <workItem from="1561034242687" duration="267000" />
+      <workItem from="1561038291194" duration="679000" />
+      <workItem from="1561077477507" duration="6418000" />
+      <workItem from="1561099524745" duration="10640000" />
+      <workItem from="1561256107564" duration="4284000" />
+      <workItem from="1561339005533" duration="575000" />
+      <workItem from="1561339594692" duration="4364000" />
+    </task>
+    <task id="LOCAL-00001" summary="version=1.0">
+      <created>1561342106002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561342106002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version=1.0">
+      <created>1561343149838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561343149838</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version=1.0">
+      <created>1561343894751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561343894751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CalculatorTest - 2019.03.29 at 18h 43m 37s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.03.29 at 18h 43m 59s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_add - 2019.03.29 at 18h 44m 08s.xml">
+      <configuration name="CalculatorTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.03.29 at 18h 48m 03s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.03.29 at 18h 48m 08s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.03.29 at 18h 48m 18s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2019.03.29 at 18h 48m 22s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test13Test_testAdd - 2019.03.29 at 19h 01m 23s.xml">
+      <configuration name="Test13Test.testAdd" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="378687000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4456929" visible="true" weight="0.2546917" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.50358" side_tool="true" weight="0.1621984" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Structure" order="6" sideWeight="0.5543071" weight="0.18230563" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24787535" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.291372" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3281471" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.40311173" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281471" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="11" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="F:/" />
+    </ignored-roots>
+    <MESSAGE value="version=1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version=1.0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVAThree/JAVAMath/MathTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVAThree/JAVATest/Test01.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test16.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/SocketTaskPackage/ServerThread.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/Service/FileService.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/SocketTaskPackage/Client.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test28.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAVASocket/INetAddress/InetAddressTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="throwExceptionValue">
+      <expression>
+        <expression-string>new RuntimeException()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>d</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>obj</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOCharStream/FileReaderAndFileWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/SocketTaskPackage/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10353">
+          <caret line="418" column="16" selection-start-line="418" selection-start-column="16" selection-end-line="418" selection-end-column="16" />
+          <folding>
+            <element signature="e#8341#8354#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/Encode/EncodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/SerializtionObject/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAjingzhizhuanghuang/StringExchangeByteArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAjingzhizhuanghuang/JZTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/File/Hello.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/dos.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOCharStream/IsrAndOswDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/File/FileUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="18" selection-start-line="18" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/DataoutputStream/DosDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/RandomAcessFile/RandomAcessFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileInputStream/IOUtilityReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1363">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileOutputStream/IOUtilityWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/FileInputStream/IOUtilityReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/BufferedInputStream/BisDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/IOStream/IOByteStream/BufferedOutputStream/BosDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="134" column="16" lean-forward="true" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="105" column="42" selection-start-line="105" selection-start-column="42" selection-end-line="105" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="70" column="52" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAFileOperate/JAVAIoStream/RandomAcessFile/SeekUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="99" column="25" selection-start-line="99" selection-start-column="17" selection-end-line="99" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="609" column="16" selection-start-line="609" selection-start-column="13" selection-end-line="609" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/MapTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#6596#6597#0" expanded="true" />
+            <element signature="e#6640#6641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/IdCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/Set/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/Service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeMap/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/Service/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/Start/ClientStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVASocket/SocketTask/src/Start/ServerStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12760">
+          <caret line="534" column="36" selection-start-line="534" selection-start-column="36" selection-end-line="534" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143521">
+          <caret line="5400" column="37" selection-start-line="5400" selection-start-column="37" selection-end-line="5400" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/Num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/MapTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/MapTABLE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program/JDKtomcatconn/src.zip!/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="156" column="18" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/Map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/MapTable/hashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkList/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkHashMap/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JAVAThree/JAVACollection/LinkList/Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JAVAPractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>dom4jAndJdom</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
