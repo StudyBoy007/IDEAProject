@@ -4,6 +4,9 @@
  */
 public class Test35 {
     public static void main(String[] args) {
-        System.out.println("我是Test35");
+        int a = 1;
+        Number number = a;
+        float b = 1.0f;
+        number = b;
     }
 }
