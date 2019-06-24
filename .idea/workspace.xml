@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e04b1c3b-9c90-44ff-9cb1-4ea52efa91c6" name="Default" comment="version=1.0">
-      <change afterPath="$PROJECT_DIR$/src/Test35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVAThree/JAVACollection/TreeSet/TreeSet.java" afterDir="false" />
-    </list>
+    <list default="true" id="e04b1c3b-9c90-44ff-9cb1-4ea52efa91c6" name="Default" comment="version=1.0" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -255,22 +252,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVAPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVAPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -568,7 +550,7 @@
       <workItem from="1561099524745" duration="10640000" />
       <workItem from="1561256107564" duration="4284000" />
       <workItem from="1561339005533" duration="575000" />
-      <workItem from="1561339594692" duration="6466000" />
+      <workItem from="1561339594692" duration="7359000" />
     </task>
     <task id="LOCAL-00001" summary="version=1.0">
       <created>1561342106002</created>
@@ -591,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561343894751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="version=1.0">
+      <created>1561356024070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561356024070</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -621,7 +610,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380789000" />
+    <option name="totallyTimeSpent" value="381682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -634,7 +623,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4456929" visible="true" weight="0.2546917" />
       <window_info id="Designer" order="1" />
